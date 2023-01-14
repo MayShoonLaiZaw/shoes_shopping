@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    color: #333;
+    font-size: 100%;
+    /* font-family: Georgia;*/
+     font-family: Cambria;
+     background: linear-gradient(#0004,#0005),url(../images/Nike-SB-Dunk-Low-What-The-Paul-Release-Date-0.jpg);
+     background-size: cover;
+     background-repeat: no-repeat;
+     background-position: center;
+}
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.products-input{
+    text-align: center;
+    color: #fff;
+    margin: 14.8% 0 ;
+    width: 100%;
+}
+form{
+    padding: 10px 0;
+    margin: 0 auto;
+    width: 50%;
+}
+input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px auto;
+    border:none;
+    border-radius: 5px;
+}
+input:focus{
+    outline: none;
+}
+.input-btn {
+    margin-top: 20px;
+    width: 80px;
+    margin-left: auto;
+}
+.input-btn button{
+    border:none;
+    border-radius: 5px;
+    width: 80px;
+    height: 30px;
+}
+.input-btn button:hover{
+    background-color: #FCFF43;
+    cursor: pointer;
+}
+#select{
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+}
+

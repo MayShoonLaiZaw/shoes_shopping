@@ -1,0 +1,13 @@
+{
+    "name": "shoppingwebtemplate/useraccount",
+    "description": "Shopping Web Template with php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "May Shoon Lai Zaw"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^2.64"
+    }
+}

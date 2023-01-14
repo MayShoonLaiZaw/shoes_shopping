@@ -1,0 +1,11 @@
+.form-floating label i{
+    font-size: 23px;
+    padding-right: 15px;
+}
+.form-floating button i{
+    font-size: 23px;
+    padding-left: 10px;
+}
+#changecolor a{
+    text-decoration: none;
+}
